@@ -4,7 +4,10 @@ test('Launch', async ({ amazon }) => {
         await amazon.verifyCartTextAndDeliveryPopup();
         await amazon.mobileFunctions();
         await amazon.homeAndKitchen();
+        await amazon.mobileFunctions();
+        await amazon.homeAndKitchen();
         
+
     });
     // myTestWithFixture('Verify', async({amazon}) =>{
     //        await amazon.verifyCartTextAndDeliveryPopup();

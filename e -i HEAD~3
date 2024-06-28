@@ -1,0 +1,58 @@
+[33mcommit e83874df259376d521c0520007e5b2969360f0d6[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature[m[33m)[m
+Author: Akshaya20052001 <akshayapandiyan02@gmail.com>
+Date:   Fri Jun 28 12:49:25 2024 +0530
+
+    one line added
+
+[33mcommit 596e5be4b0ff6e3141b8ae0e831eaf07fd993eeb[m[33m ([m[1;31morigin/feature[m[33m)[m
+Author: Akshaya20052001 <akshayapandiyan02@gmail.com>
+Date:   Thu Jun 27 17:10:24 2024 +0530
+
+    new one
+
+[33mcommit 4524adcafb9d9e85b4a806c09fe8b9ec389bc9d2[m
+Author: Akshaya20052001 <akshayapandiyan02@gmail.com>
+Date:   Thu Jun 27 17:08:55 2024 +0530
+
+    Revert "dummy"
+    
+    This reverts commit 08de56aa6b1f06e6a43c897ed8185d4e521aa410.
+
+[33mcommit 08de56aa6b1f06e6a43c897ed8185d4e521aa410[m
+Author: Akshaya20052001 <akshayapandiyan02@gmail.com>
+Date:   Thu Jun 27 17:08:26 2024 +0530
+
+    dummy
+
+[33mcommit aa1f5b86156559aecda16c84bf84ee106d0a8d16[m[33m ([m[1;32mmain[m[33m)[m
+Merge: 6e0fca6 8d64e20
+Author: Akshaya20052001 <143186859+Akshaya20052001@users.noreply.github.com>
+Date:   Thu Jun 27 14:48:30 2024 +0530
+
+    Merge pull request #1 from Akshaya20052001/akshaya
+    
+    Akshaya
+
+[33mcommit 8d64e201f260c477426f942ed7da6f69be2aa5ee[m
+Author: Akshaya20052001 <akshayapandiyan02@gmail.com>
+Date:   Thu Jun 27 14:46:47 2024 +0530
+
+    small changes
+
+[33mcommit 2a9a1f779f2ee0df249ae2e26148e0cd1bd1ec2f[m
+Author: Akshaya20052001 <akshayapandiyan02@gmail.com>
+Date:   Thu Jun 27 14:42:07 2024 +0530
+
+    changes
+
+[33mcommit 6e0fca612aea865208fb06f610a72477fd4d57c2[m
+Author: Akshaya20052001 <akshayapandiyan02@gmail.com>
+Date:   Thu Jun 27 14:39:06 2024 +0530
+
+    code updated
+
+[33mcommit ee0587f08293301923c41fd7975fc8f3a7d708e8[m
+Author: Akshaya20052001 <143186859+Akshaya20052001@users.noreply.github.com>
+Date:   Thu Jun 27 14:19:50 2024 +0530
+
+    Initial commit
