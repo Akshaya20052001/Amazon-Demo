@@ -60,5 +60,9 @@ export class Base{
         await this.page.close();
     }
 
+    async tobeClose():Promise<void>{
+        await this.page.close();
+    }
+
 
 }

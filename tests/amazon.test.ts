@@ -5,6 +5,7 @@ test('Launch', async ({ amazon }) => {
         await amazon.mobileFunctions();
         await amazon.homeAndKitchen();
         
+
     });
     // myTestWithFixture('Verify', async({amazon}) =>{
     //        await amazon.verifyCartTextAndDeliveryPopup();
